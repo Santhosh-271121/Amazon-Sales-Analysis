@@ -38,6 +38,15 @@ This project is an interactive Amazon Sales Dashboard built using Power BI. It h
 
 ---
 
+## 📈 Business Insights
+
+- Electronics generated the highest revenue among all product categories.
+- The delivery success rate exceeded **74%**, indicating strong fulfillment performance.
+- Monthly revenue remained relatively stable, with a few seasonal peaks.
+- Top-selling products contributed significantly to overall revenue.
+- Revenue varied across different states, highlighting regional sales performance.
+
+  
 ## 📂 Folder Structure
 
 Dashboard/
