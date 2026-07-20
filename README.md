@@ -9,7 +9,7 @@ This project is an interactive Amazon Sales Dashboard built using Power BI. It h
 ## 📷 Dashboard Preview
 
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
