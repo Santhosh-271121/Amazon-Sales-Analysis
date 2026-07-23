@@ -1,8 +1,6 @@
 # 📊 Amazon Sales Analysis Dashboard
 
-<p align="center">
-  <img src="Images/Dashboard.png" alt="Amazon Sales Dashboard" width="900">
-</p>
+![Dashboard](Dashboard.png)
 
 <p align="center">
 
@@ -115,9 +113,7 @@ Dashboard/Amazon_Sales_Dashboard.pbix
 
 # 📷 Dashboard Preview
 
-<p align="center">
-<img src="Images/Dashboard.png" width="900">
-</p>
+![Dashboard](Dashboard.png)
 
 ---
 
