@@ -1,74 +1,152 @@
-# 🛒 Amazon Sales Analysis Dashboard
+# 📊 Amazon Sales Analysis Dashboard
 
-##  Project Overview
+<p align="center">
+  <img src="Images/Dashboard.png" alt="Amazon Sales Dashboard" width="900">
+</p>
 
-This project is an interactive Amazon Sales Dashboard built using Power BI. It helps analyze sales performance, product trends, revenue, and business KPIs using interactive visualizations.
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</p>
 
 ---
 
-## 📷 Dashboard Preview
+# 📌 Project Overview
 
+This project presents an **interactive Amazon Sales Dashboard** developed using **Power BI** to analyze sales performance, customer purchasing behavior, product trends, and key business metrics.
 
-![Dashboard](Dashboard.png)
+The dashboard transforms raw sales data into meaningful visual insights, enabling data-driven decision-making through interactive reports and KPI tracking.
 
 ---
 
-## 📊 Key Features
+# ✨ Features
+
+- 📈 Interactive Power BI Dashboard
+- 💰 Revenue & Profit Analysis
+- 📦 Order & Quantity Analysis
+- 📊 Category-wise Sales Performance
+- 🏆 Top Selling Products
+- 🗺️ State-wise Revenue Analysis
+- 📅 Monthly Sales Trends
+- 🎯 Dynamic Filters & Slicers
+- 📉 KPI Cards for Business Monitoring
+
+---
+
+# 🛠️ Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| DAX | KPI Measures |
+| Power Query | Data Transformation |
+| Python | Data Cleaning |
+| SQL | Data Analysis |
+| Excel | Data Preparation |
+
+---
+
+# 📊 Dashboard KPIs
 
 - 💰 Total Revenue
 - 📦 Total Orders
-- 🛒 Total Quantity
+- 🛒 Total Quantity Sold
 - 💳 Average Order Value
-- 📈 Monthly Revenue Trend
-- 📊 Revenue by Category
-- 🏆 Top Products Analysis
-- 🗺 Revenue by State
-- 🎯 Interactive Filters (Year, Category, Brand, Payment Method)
+- 📈 Monthly Revenue Growth
+- 🌍 Regional Sales Performance
+- 🏆 Best Performing Products
 
 ---
 
-## 🛠 Tools Used
+# 📈 Business Insights
 
-- Power BI
-- DAX
-- Power Query
-- SQL
-- Python
-- Excel
-
----
-
-## 📈 Business Insights
-
-- Electronics generated the highest revenue among all product categories.
-- The delivery success rate exceeded **74%**, indicating strong fulfillment performance.
-- Monthly revenue remained relatively stable, with a few seasonal peaks.
-- Top-selling products contributed significantly to overall revenue.
-- Revenue varied across different states, highlighting regional sales performance.
-
-  
-## 📂 Folder Structure
-
-Dashboard/
-- Amazon_Sales_Dashboard.pbix
-
-Dataset/
-- Amazon.csv
-
-Python/
-- Data Cleaning & Analysis Scripts
-
-SQL/
-- SQL Queries
-
-Images/
-- Dashboard Screenshots
+- Electronics generated the highest overall revenue.
+- Delivery success rate exceeded **74%**, reflecting efficient order fulfillment.
+- Monthly revenue remained consistent with seasonal growth periods.
+- A small number of products contributed significantly to total sales.
+- Revenue distribution varied across states, revealing regional market trends.
 
 ---
 
-## 👨‍💻 Author
+# 📂 Project Structure
+
+```
+Amazon-Sales-Analysis/
+│
+├── Dashboard/
+│   └── Amazon_Sales_Dashboard.pbix
+│
+├── Dataset/
+│   └── Amazon.csv
+│
+├── Python/
+│   └── Data_Cleaning.ipynb
+│
+├── SQL/
+│   └── Amazon_SQL_Queries.sql
+│
+├── Images/
+│   └── Dashboard.png
+│
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Santhosh-271121/Amazon-Sales-Analysis.git
+```
+
+### Open Dashboard
+
+```
+Dashboard/Amazon_Sales_Dashboard.pbix
+```
+
+---
+
+# 📷 Dashboard Preview
+
+<p align="center">
+<img src="Images/Dashboard.png" width="900">
+</p>
+
+---
+
+# 🎯 Future Enhancements
+
+- Sales Forecasting using Machine Learning
+- Customer Segmentation
+- Inventory Demand Prediction
+- Streamlit Web Dashboard
+- Automated Business Reports
+
+---
+
+# 👨‍💻 Author
 
 **Santhosh C**
 
-- GitHub: https://github.com/Santhosh-271121
-- LinkedIn: https://www.linkedin.com/in/santhosh-c-19a766335
+🎓 B.Tech – Computer Science & Software Engineering (CSSE)
+
+📊 Data Analyst | Python Developer | AI & Computer Vision Enthusiast
+
+🔗 GitHub: https://github.com/Santhosh-271121
+
+💼 LinkedIn: https://www.linkedin.com/in/santhosh-c-19a766335
+
+---
+
+<p align="center">
+
+⭐ **If you found this project useful, consider giving it a Star!**
+
+</p>
