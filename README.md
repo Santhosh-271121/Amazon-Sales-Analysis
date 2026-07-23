@@ -115,7 +115,10 @@ Dashboard/Amazon_Sales_Dashboard.pbix
 
 # 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+<p align="center">
+<img src="Images/Dashboard.png" width="900">
+</p>
+
 ---
 
 # 🎯 Future Enhancements
